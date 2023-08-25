@@ -7,14 +7,14 @@
 | 28/03 | <span style = "color:red;"> Red </span> | Pasta Carbonara | Yes (sorry)
 
  ## Hobbies 
-- Video games
+- *Video games*
     * R6
     * Fortnite
     * Call of Duty
     
-- Football
-- Mangas 
-- Youtube
+- *Football*
+- *Mangas* 
+- *Youtube*
 
 ## You can always count on me when...
 
