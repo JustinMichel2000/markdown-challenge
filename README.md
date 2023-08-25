@@ -1,5 +1,5 @@
 # Justin Michel
-## Everybody loves a bad idea when it works
+## *Everybody loves a bad idea when it works*
 ![My professional photo](My-professional-photo.jpg)
 ## I see myself as someone who others can rely on and who is really motivated when he is passionate
 | Birthday | Favorite color | Favorite Food | Pinneapple on pizza |
