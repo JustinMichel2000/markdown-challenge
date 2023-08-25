@@ -29,4 +29,4 @@ When I was on holidays with my family, I found friends to play with. We went for
 
 Don't jump over holes if you don't know what's inside. 
 
-<<https://github.com/Pierremarien/markdown-challenge || Justin Michel || https://github.com/robpiot/markdown-challenge>>
+[<<previous](https://github.com/Pierremarien/markdown-challenge) || Justin Michel || [next](https://github.com/robpiot/markdown-challenge)>>
