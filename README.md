@@ -27,6 +27,6 @@ When I was on holidays with my family, I found friends to play with. We went for
 
 ### TL;DR
 
-Don't jump over holes if you don't know what's inside. 
+**Don't jump over holes if you don't know what's inside.** 
 
 [<<previous](https://github.com/Pierremarien/markdown-challenge) || Justin Michel || [next](https://github.com/robpiot/markdown-challenge)>>
